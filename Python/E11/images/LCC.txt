@@ -1,0 +1,12 @@
+[+] Metadata for file: LCC.jpg 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: ExifOffset - Value: 168 
+Metadata: Software - Value: Adobe Photoshop CS6 (Macintosh) 
+Metadata: Orientation - Value: 1 
+Metadata: DateTime - Value: 2013:07:18 13:53:36 
+Metadata: XResolution - Value: 300.0 
+Metadata: YResolution - Value: 300.0 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ExifImageWidth - Value: 265 
+Metadata: ExifImageHeight - Value: 165 
+

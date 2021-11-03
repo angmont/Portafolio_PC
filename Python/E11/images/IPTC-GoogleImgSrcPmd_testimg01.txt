@@ -1,0 +1,18 @@
+[+] Metadata for file: IPTC-GoogleImgSrcPmd_testimg01.jpg 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: ImageDescription - Value: The railways of the S45 line are running very close to a small street with parking cars 
+Metadata: YResolution - Value: 72.0 
+Metadata: YCbCrPositioning - Value: 1 
+Metadata: Copyright - Value: © Copyright 2020 IPTC (Test Images) - www.iptc.org 
+Metadata: XResolution - Value: 72.0 
+Metadata: Artist - Value: Jane Photosty 
+
+[+] Metadata for file: IPTC-GoogleImgSrcPmd_testimg01.jpg 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: ImageDescription - Value: The railways of the S45 line are running very close to a small street with parking cars 
+Metadata: YResolution - Value: 72.0 
+Metadata: YCbCrPositioning - Value: 1 
+Metadata: Copyright - Value: © Copyright 2020 IPTC (Test Images) - www.iptc.org 
+Metadata: XResolution - Value: 72.0 
+Metadata: Artist - Value: Jane Photosty 
+
