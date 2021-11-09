@@ -1,0 +1,61 @@
+import pyautogui
+import webbrowser
+import time
+url = 'https://forms.office.com/r/S8Jy6Jsvmh'
+webbrowser.get('C:/Program Files (x86)/Google/Chrome/Application/chrome.exe %s').open(url)
+#entra a la página de forms
+time.sleep(10)
+time.sleep(1)
+pyautogui.click(100, 100)
+time.sleep(2)
+pyautogui.click(x=333, y = 446, clicks = 1)
+#Respuesta = Marvel
+pyautogui.scroll(-200)
+time.sleep(1)
+pyautogui.click(x=527, y = 539, clicks = 1)
+refran = "No hay peor ciego que el que no quiere ver"
+pyautogui.typewrite(refran)
+time.sleep(1)
+pyautogui.scroll(-400)
+time.sleep(1)
+pyautogui.click(x=446, y = 363, clicks = 1)
+time.sleep(1)
+pyautogui.click(x=402, y = 595, clicks = 1)
+time.sleep(1)
+#Respuesta = 1 pm
+time.sleep(1)
+pyautogui.click(x=450, y = 516, clicks = 1)
+pyautogui.typewrite("falso")
+pyautogui.keyDown('altright')
+pyautogui.keyDown('q')
+pyautogui.keyUp('altright')
+pyautogui.keyUp('q')
+pyautogui.typewrite("gmail.com")
+pyautogui.click(x=396, y = 602, clicks = 1)
+time.sleep(3)
+pyautogui.click(x=380, y = 463, clicks = 1)
+time.sleep(3)
+pyautogui.click(x=336, y = 530, clicks = 1)
+#Respuesta = Ambos
+pyautogui.scroll(-200)
+time.sleep(1)
+pyautogui.click(x=527, y = 539, clicks = 1)
+refran = "Mas vale prevenir, que lamentar"
+pyautogui.typewrite(refran)
+time.sleep(1)
+pyautogui.scroll(-400)
+time.sleep(1)
+pyautogui.click(x=446, y = 363, clicks = 1)
+time.sleep(1)
+pyautogui.click(x=477, y = 512, clicks = 1)
+#Respuesta 11 AM
+time.sleep(1)
+pyautogui.click(x=450, y = 516, clicks = 1)
+pyautogui.typewrite("correomuyfalso")
+pyautogui.keyDown('altright')
+pyautogui.keyDown('q')
+pyautogui.keyUp('altright')
+pyautogui.keyUp('q')
+pyautogui.typewrite("hotmail.com")
+pyautogui.click(x=396, y = 602, clicks = 1)
+time.sleep(3)
