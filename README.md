@@ -13,21 +13,4 @@ Para ejecutar estos scripts, asegúrate de tener instalados los siguientes paque
 - **Bash** en sistemas basados en UNIX/Linux.
 - **PowerShell** en entornos Windows.
 
-Puedes instalar las dependencias necesarias con:
-
-## Uso
-Cada script tiene su propia finalidad y parámetros. 
-```
-
-## Estructura del Repositorio
-```
-/scripts
-  ├── bash/
-  ├── python/
-  ├── powershell/
-  ├── README.md
-```
-
-## Licencia
-Este proyecto se distribuye bajo la licencia MIT.
 
